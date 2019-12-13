@@ -1,0 +1,8 @@
+prefix=/home/anjali/rgbd_slam/devel
+
+Name: navigate
+Description: Description of navigate
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/anjali/rgbd_slam/devel/lib 
+Requires: 
